@@ -2,7 +2,7 @@
 # Community Starter Kit
 ## Guide Lines :point_down:
 1. Creating Repository 
-2. Little Intro
+2. Little Introduction
 3. User Documentation - (upload or add to   README.md)
       * corrections
       * adding :hand: pictures,videos,pdf,coded
@@ -13,7 +13,7 @@
     *  issue label creating
     *  closing issues
 8. Commit
-. Code Review
+9. Code Review
  
 
 
