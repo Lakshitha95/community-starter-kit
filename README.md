@@ -1,4 +1,4 @@
-# For Beginners:baby: :point_down::point_down::point_down:
+# For Beginners:point_down: 
 # Community Starter Kit
 ## Guide Lines :point_down:
 1. Creating Repository 
